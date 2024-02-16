@@ -69,7 +69,7 @@ namespace BankManagementSystem
                     var path = account.AccountNumber + ".txt";
                     MailMessage mail = new MailMessage();
                     SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
-                    mail.From = new MailAddress("syfsofiena@gmail.com");
+                    mail.From = new MailAddress("xxxxx");
                     mail.To.Add(fields[indexEmail]);
                     mail.Subject = "SimpleBankingApp - Account Details";
                     mail.Body = "Dear Customer, please find attached your new account details. Thank You";
@@ -79,7 +79,7 @@ namespace BankManagementSystem
                         mail.Attachments.Add(attachment);
                         SmtpServer.Port = 587;
                         SmtpServer.UseDefaultCredentials = true;
-                        SmtpServer.Credentials = new System.Net.NetworkCredential("syfsofiena@gmail.com", "ewezenccobhzjohb");
+                        SmtpServer.Credentials = new System.Net.NetworkCredential("xxxxx", "xxxxxx");
                         SmtpServer.EnableSsl = true;
                         SmtpServer.Send(mail);
                     }
@@ -295,7 +295,7 @@ namespace BankManagementSystem
                         var path = account.AccountNumber + ".txt";
                         MailMessage mail = new MailMessage();
                         SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
-                        mail.From = new MailAddress("syfsofiena@gmail.com");
+                        mail.From = new MailAddress("xxxxxx");
                         mail.To.Add(account.Email);
                         mail.Subject = "SimpleBankingApp - Your Account Statement";
                         mail.Body = "Dear Customer, please find attached your a/c statement. Thank You";
@@ -305,7 +305,7 @@ namespace BankManagementSystem
                             mail.Attachments.Add(attachment);
                             SmtpServer.Port = 587;
                             SmtpServer.UseDefaultCredentials = true;
-                            SmtpServer.Credentials = new System.Net.NetworkCredential("syfsofiena@gmail.com", "ewezenccobhzjohb");
+                            SmtpServer.Credentials = new System.Net.NetworkCredential("xxxxxx", "xxxxxx");
                             SmtpServer.EnableSsl = true;
                             SmtpServer.Send(mail);
                         }
