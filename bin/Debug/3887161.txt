@@ -1,0 +1,7 @@
+First Name|Syafa
+Last Name|Sofiena
+Address|Forest Lodge, NSW
+Phone|412969416
+Email|skdjnsjfns@gmail.com
+AccountNo|3887161
+Balance|0

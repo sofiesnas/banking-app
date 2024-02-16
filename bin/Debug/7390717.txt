@@ -1,0 +1,7 @@
+First Name|Sufu
+Last Name|Sufunu
+Address|glubu
+Phone|34653456
+Email|syafa_sofiena@yahoo.com
+AccountNo|7390717
+Balance|0

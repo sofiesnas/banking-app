@@ -1,0 +1,7 @@
+First Name|Benny
+Last Name|Vanny
+Address|Glebe, NSW
+Phone|422343403
+Email|benvanok@gmail.com
+AccountNo|7642557
+Balance|0

@@ -1,0 +1,7 @@
+First Name|yes
+Last Name|yes
+Address|ha
+Phone|34234231
+Email|sdiufhsd@sdf.com
+AccountNo|5872363
+Balance|0

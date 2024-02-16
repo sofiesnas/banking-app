@@ -1,0 +1,8 @@
+First Name|Ben
+Last Name|Van
+Address|Forest Lodge, NSW
+Phone|412969416
+Email|sajfhnsjf@gmail.com
+AccountNo|936865
+Balance|230.2
+9/19/2022 6:34:58 AM|Deposit|20

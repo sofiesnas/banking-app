@@ -1,0 +1,7 @@
+First Name|Bella
+Last Name|Ragdoll
+Address|Forest Lodge, NSW
+Phone|412969533
+Email|syafa.sofiena@gmail.com
+AccountNo|6398638
+Balance|0

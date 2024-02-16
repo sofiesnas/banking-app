@@ -1,0 +1,8 @@
+First Name|Belle
+Last Name|Ragdoll
+Address|foreest lodge
+Phone|45383272
+Email|sdjfhnsdjf@gmail.com
+AccountNo|4735280
+Balance|100
+BankManagementSystem.Transaction

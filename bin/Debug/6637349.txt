@@ -1,0 +1,7 @@
+First Name|syafa
+Last Name|sofiena
+Address|forest
+Phone|523453234
+Email|syfsofiena@gmail.com
+AccountNo|6637349
+Balance|0

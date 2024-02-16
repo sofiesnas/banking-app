@@ -1,0 +1,14 @@
+C:\Users\syafasofiena\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\syafasofiena\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\syafasofiena\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe.config
+C:\Users\syafasofiena\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe
+C:\Users\syafasofiena\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.pdb
+C:\Users\syafasofiena\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe
+C:\Users\syafasofiena\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
+C:\Users\syafasofiena\source\repos\BankManagementSystem1 - Copy\BankManagementSystem\bin\Debug\BankManagementSystem.exe.config
+C:\Users\syafasofiena\source\repos\BankManagementSystem1 - Copy\BankManagementSystem\bin\Debug\BankManagementSystem.exe
+C:\Users\syafasofiena\source\repos\BankManagementSystem1 - Copy\BankManagementSystem\bin\Debug\BankManagementSystem.pdb
+C:\Users\syafasofiena\source\repos\BankManagementSystem1 - Copy\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\syafasofiena\source\repos\BankManagementSystem1 - Copy\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\syafasofiena\source\repos\BankManagementSystem1 - Copy\BankManagementSystem\obj\Debug\BankManagementSystem.exe
+C:\Users\syafasofiena\source\repos\BankManagementSystem1 - Copy\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
