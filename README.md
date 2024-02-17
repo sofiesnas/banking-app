@@ -1,6 +1,6 @@
-# Bank Management System
+# SimpleBankingApp
 
-This console application is a simple Bank Management System developed in C# using .NET Framework as part of an assignment for the University of Technology Sydney (UTS). It facilitates basic banking operations such as account creation, deposits, withdrawals, and more.
+This console application is a bank management system developed in C# using .NET Framework. It facilitates basic banking operations such as account creation, deposits, withdrawals, and more. It is part of an .NET programming assignment for the University of Technology Sydney (UTS).
 
 ![Demo](screenrecord.gif)
 
