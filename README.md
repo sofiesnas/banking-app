@@ -13,6 +13,6 @@ This console application is a simple Bank Management System developed in C# usin
 ## Features
 - Secure login system
 - Account management (create, search, deposit, withdraw, delete)
-- - Email notifications for new accounts
+- Email notification for new accounts
 - Create account statements and send via email
 - Interactive console-based user interface
